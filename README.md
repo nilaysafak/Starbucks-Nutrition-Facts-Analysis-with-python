@@ -18,6 +18,8 @@ This project involves analyzing Starbucks nutrition data using Python. The data,
 
 1. **Product Type Distribution**
    - A graph showing the distribution of product types.
+   - images/ ![product_type](https://github.com/user-attachments/assets/045e87ab-04d5-477c-a4e6-d87eb67ca3f9)
+
 
 2. **Product Counts**
    - A chart displaying the number of products by type.
